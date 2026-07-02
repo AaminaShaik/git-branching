@@ -1,5 +1,5 @@
 import subprocess
-import OS linux 
+import OS linux add mac
 
 process = subprocess.Popen(
     ["python", "hello.py"]
