@@ -1,5 +1,5 @@
 import subprocess
-import OS linux add windows
+import OS linux 
 
 process = subprocess.Popen(
     ["python", "hello.py"]
